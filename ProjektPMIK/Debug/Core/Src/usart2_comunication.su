@@ -1,0 +1,3 @@
+../Core/Src/usart2_comunication.c:20:5:__io_putchar	24	static
+../Core/Src/usart2_comunication.c:39:6:line_append	80	static
+../Core/Src/usart2_comunication.c:231:7:print_your_console_write	16	static
